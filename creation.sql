@@ -1,5 +1,3 @@
-USE tifosi;
-
 -- TABLE ingredient
 CREATE TABLE ingredient (
     id_ingredient INT AUTO_INCREMENT PRIMARY KEY,
